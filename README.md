@@ -17,6 +17,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 ### Visualisation
 Link to my Tableau Data Visualisation https://public.tableau.com/app/profile/troy.foote/viz/Citi_Bike_Analysis_16820865662000/CitiBikeStory?publish=yes
 
+![2022 Totals](Images/2022_Totals.png)
 
 
 ### References
