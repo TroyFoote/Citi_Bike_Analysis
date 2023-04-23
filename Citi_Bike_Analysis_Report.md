@@ -22,16 +22,16 @@ The same 10 stations were found in the Top 10 Start and End Stations.
 
 3. Map Starting Stations
 
-Looking at the Map for All Start Stations the vast majority of all starts are made in the Jersey City and Hoboken regions. The map is set to 'Dark Mode' to better see some of the lesser used stations.
-<br>
+Looking at the Map for All Start Stations the vast majority of all starts are made in the Jersey City and Hoboken regions. 
+<br>_The map is set to 'Dark Mode' to better see some of the lesser used stations_.
 
 ![Start Stations](Images/Map_Start_Stations.png)
 <br>
 
 4. Map Ending Stations
 
-Looking at the Map for All End Stations the majority of all ends are made in the Jersey City and Hoboken regions. However there are many end points made in Manhattan from the Financial District upto Central Park as well as further north. Many of these locations are single figure units. The map is set to 'Dark Mode' to better see some of the lesser used stations.
-<br>
+Looking at the Map for All End Stations the majority of all ends are made in the Jersey City and Hoboken regions. However there are many end points made in Manhattan from the Financial District upto Central Park as well as further north. Many of these locations are single figure units. 
+<br>_The map is set to 'Dark Mode' to better see some of the lesser used stations_.
 
 ![End Stations](Images/Map_End_Stations.png)
 <br>
