@@ -5,5 +5,9 @@
 <br>
 ![2022 Totals](Images/2022_Totals.png)
 <br>
+<br>
+![Top 10 Stations](Images/Top_10_Stations.png)
+<br>
+<br>
 
 
