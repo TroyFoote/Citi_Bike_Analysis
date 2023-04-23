@@ -14,6 +14,8 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 * Design 2–5 visualisations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
 
+###
+Link to my Tableau Data Visualisation https://public.tableau.com/app/profile/troy.foote/viz/Citi_Bike_Analysis_16820865662000/CitiBikeStory?publish=yes
 
 
 
