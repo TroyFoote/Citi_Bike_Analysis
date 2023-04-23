@@ -1,13 +1,18 @@
 # Citi Bike Data Analysis - 2022 Data
 
 1. 2022 Totals.
-<br>
-<br>
+
 ![2022 Totals](Images/2022_Totals.png)
-<br>
-<br>
+
+
 ![Top 10 Stations](Images/Top_10_Stations.png)
-<br>
-<br>
+
+![Start Stations](Images/Map_Start_Stations.png)
+
+![End Stations](images/Map_End_Stations.png)
+
+![Rideable Types](images/Rideable_Type.png)
+
+![Monthly Stats](Images/Monthly.png)
 
 
