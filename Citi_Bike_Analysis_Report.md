@@ -3,7 +3,7 @@
 1. 2022 Totals.
 <br>
 <br>
-![2022 Totals](images/2022_Totals.png)
+![2022 Totals](Images/2022_Totals.png)
 <br>
 
 
